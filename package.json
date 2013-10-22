@@ -20,7 +20,7 @@
 	"dependencies": {
 		"xtend": "~1.0.3",
 		"request": "~2.12.0",
-		"httpsync": "0.0.6"
+		"http-sync": "0.0.x"
 	},
 
 	"devDependencies": {
